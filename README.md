@@ -4,11 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student
 ----------------------------
 
-Expensya if you're seeing this please hire me !!
 
 * 🌍  I'm based in Tunisia,Tunis
 * ✉️  You can contact me at [achrafjlassi2001@gmail.com](mailto:achrafjlassi2001@gmail.com)
-* 🧠  I'm learning .net & Angualr
 
 ### Skills
 
